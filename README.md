@@ -11,6 +11,9 @@ Além disso, haviam algumas flags importantes que ressaltavam:
 - Performance (Velocidade de Execução (*));
 - Código/Boas Práticas (Boas práticas e documentação)
 
+##### Vídeo de Apresentação do Projeto
+https://www.youtube.com/watch?v=uBVyv_IAhH8
+
 ##### Observação:
 Sobre estas flags, acho importante ressaltar o seguinte:
 - **Perfomance**: Eu penso que, a questão de tempo de execução do código não contabiliza o tempo de download, já que o csv é finalizado muito antes e é inviável em um cenário real depender do tempo de resposta de um servidor, porém, posso estar errado e peço perdão quando a isso.
